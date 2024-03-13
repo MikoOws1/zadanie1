@@ -14,3 +14,10 @@ pole_pr = bok_a * bok_b
 
 print("Pole prostkata wynosi " +str(pole_pr))
 
+# trojkat
+
+wysokosc = 10
+
+pole_tr = (bok_a * wysokosc)/2
+
+print("Pole trojkata wynosi " +str(pole_tr))
